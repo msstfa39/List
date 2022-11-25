@@ -1,12 +1,8 @@
 List Active File
 32abd650-695c-4cae-8393-2a9e4a8d7e30
 faxi
-31658c63-b10a-44e7-a3a8-9cee2f7e7614
-hawa
 73294aac-e27e-472f-bc67-bb571f310fa9
 bako
-bd378811-562d-44ee-9ade-f6174fd125a2
-shexani
 1-0-2-1-4-u-0-_-a-2-1-4
 حمە
 1-0-5-8-0-u-0-_-a-5-8-0
@@ -15,5 +11,5 @@ bako
 shwana
 1-0-1-6-1-u-0-_-a-1-6-1
 t
-1-0-2-5-9-u-0-_-a-2-5-9
-mastfa
+33852409-3c4a-47f3-8b0f-cb3a62498b8f
+hama hacker
